@@ -3,7 +3,7 @@ For the lady's wallet and the man's pocket! Here you have the most complete and 
 
 ## The begenning
 ```html
-<!DOCTYPE html>
+<!DOCTYPE html> <!-- In HTML 4.01, the <!DOCTYPE> declaration refers to a DTD, because HTML 4.01 was based on SGML. The DTD specifies the rules for the markup language, so that the browsers render the content correctly. HTML5 is not based on SGML, and therefore does not require a reference to a DTD -->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
