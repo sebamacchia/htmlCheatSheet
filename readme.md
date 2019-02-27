@@ -11,8 +11,14 @@ For the lady's wallet and the man's pocket! Here you have the most complete and 
 
 
 ```
-
-
+## Document Informtation 
+```html
+<base/>                                           <!-- Usefull for specifying relative links in a document -->
+<style></style>                                   <!-- Contains styles for the html document  -->
+<meta/>                                           <!-- Contains additional information about the page, author, page description and other hidden page info  -->
+<script></script>                                 <!-- Contains all scripts internal or external  -->
+<link/>                                           <!-- Used to create relationships with external pages and stylesheets -->
+```
 
 <img src="readme-img/HTML5-BlockElements.png" alt="">
 
