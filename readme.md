@@ -47,36 +47,36 @@ For the lady's wallet and the man's pocket! Here you have the most complete and 
 <hr> <!-- Creates a sectional break into HTML  -->
 ```
 
-<!-- Text Formatting -->
+## Text Formatting
 
+```HTML
+<strong></strong> and <b></b><!-- Makes text contained in the tag as bold -->
+<em></em> and <i></i><!-- Alternative way to make the text contained in the tag as italic -->
+<strike></strike><!-- creates a strike through the text element -->
+<pre></pre><!-- Preformatted monospace text block with some spacing intact -->
+<blockquote></blockquote><!-- Contains long paragraphs of quotations often cited -->
+<abbr></abbr> <!-- Contains abbreviations while also making the full form avaialable  -->
+<address></address><!-- Used to display contact information -->
+<code></code><!-- Used to display inline code snippets -->
+```
 
-<strong></strong> and <b></b>                     <!-- Makes text contained in the tag as bold -->
-<em></em> and <i></i>                             <!-- Alternative way to make the text contained in the tag as italic -->
-<strike></strike>                                 <!-- creates a strike through the text element -->
-<pre></pre>                                       <!-- Preformatted monospace text block with some spacing intact -->
-<blockquote></blockquote>                         <!-- Contains long paragraphs of quotations often cited -->
-<abbr></abbr>                                     <!-- Contains abbreviations while also making the full form avaialable  -->
-<address></address>                               <!-- Used to display contact information -->
-<code></code>                                     <!-- Used to display inline code snippets -->
+## Links Formatting
 
-
-<!-- Links Formatting -->
-
-
+```HTML
 <a href="url"></a>                                <!-- Used to link to external or internal pages of a wbesite -->
 <a href="mailto:email@example.com"></a>           <!-- Used to link to an email address -->
 <a href="name"></a>                               <!-- Used to link to a document element -->
 <a href="#name"></a>                              <!-- Used to link to specific div element -->
 <a href="tel://####-####-##"></a>                 <!-- Used to display phone numbers and make them as clickable -->
+```
 
-
-<!-- Image Formatting -->
-
+## Image Formatting
+```HTML
 
 <img src="url" alt="text">                        <!-- Used to display images in a webpage wehre src="url" contains the link to the image source and alt="" contains an alternative text to display wehn the image is not displayed -->
+```
 
-
-<!-- List Formatting -->
+## List Formatting
 
 
 <ol></ol>                                         <!-- Used to create ordered lists with numbers in the items -->
