@@ -49,7 +49,27 @@ For the lady's wallet and the man's pocket! Here you have the most complete and 
 
 ## HTML5 new tags
 ```html
-<header></header> <!-- specify webpage header -->
+<article>	<!--Defines an article in a document-->
+<aside>	<!--Defines content aside from the page content -->
+<bdi>	<!--Isolates a part of text that might be formatted in a different direction from other text outside it -->
+<details>	<!-- Defines additional details that the user can view or hide -->
+<dialog>	<!--Defines a dialog box or window -->
+<figcaption>	<!--Defines a caption for a <figure> element -->
+<figure>	<!-- Defines self-contained content -->
+<footer>	<!--Defines a footer for a document or section -->
+<header>	<!--Defines a header for a document or section-->
+<main>	<!--Defines the main content of a document-->
+<mark>	<!--Defines marked/highlighted text -->
+<meter>	<!--Defines a scalar measurement within a known range (a gauge) -->
+<nav>	<!--Defines navigation links-->
+<progress>	<!--Represents the progress of a task-->
+<rp>	<!--Defines what to show in browsers that do not support ruby annotations-->
+<rt>	<!--Defines an explanation/pronunciation of characters (for East Asian typography)-->
+<ruby>	<!--Defines a ruby annotation (for East Asian typography)-->
+<section>	<!--Defines a section in a document-->
+<summary>	<!--Defines a visible heading for a <details> element-->
+<time>	<!--Defines a date/time-->
+<wbr>	<!--Defines a possible line-break-->
 ```
 ## Text Formatting
 
