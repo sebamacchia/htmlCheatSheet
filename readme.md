@@ -47,6 +47,10 @@ For the lady's wallet and the man's pocket! Here you have the most complete and 
 <hr> <!-- Creates a sectional break into HTML  -->
 ```
 
+## HTML5 new tags
+```html
+<header></header> <!-- specify webpage header -->
+```
 ## Text Formatting
 
 ```HTML
