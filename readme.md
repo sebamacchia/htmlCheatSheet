@@ -1,6 +1,22 @@
 # HTML Cheat Sheet baby
 For the lady's wallet and the man's pocket! Here you have the most complete and compact HTML cheat sheet in the entire world!
 
+## The begenning
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+```
+
 ## Document Summary 
 ```html
 <html></html> <!-- Indicates that the page is written in html -->
