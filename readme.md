@@ -231,6 +231,7 @@ width=""                                          <!-- Describes the width of th
 
 
 ------------------
+# YAPA: EMOJI CHEAT SHEET
 People
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
