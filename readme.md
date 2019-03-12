@@ -101,22 +101,22 @@ For the lady's wallet and the man's pocket! Here you have the most complete and 
 ```
 
 ## List Formatting
+```HTML
+<ol></ol> <!-- Used to create ordered lists with numbers in the items -->
+<ul></ul> <!-- Used to display unordered lists with numbers in the items -->
+<li></li> <!-- Contains list items inside ordered and unordered lists -->
+<dl></dl> <!-- Contains list item definitions -->
+<dt></dt> <!-- definition of single term inline with body content -->
+<dd></dd> <!-- The descrpition of the defined term -->
+```
 
+## Forms Formatting and Attributes
+```html
+<form action="url"></form> <!-- Form element creates a form and action="" specifies where the data is to be sent to when the visitor submits the form -->
+```
 
-<ol></ol>                                         <!-- Used to create ordered lists with numbers in the items -->
-<ul></ul>                                         <!-- Used to display unordered lists with numbers in the items -->
-<li></li>                                         <!-- Contains list items inside ordered and unordered lists -->
-<dl></dl>                                         <!-- Contains list item definitions -->
-<dt></dt>                                         <!-- definition of single term inline with body content -->
-<dd></dd>                                         <!-- The descrpition of the defined term -->
-
-
-<!-- Forms Formatting and Attributes -->
-
-
-<form action="url"></form>                        <!-- Form element creates a form and action="" specifies where the data is to be sent to when the visitor submits the form -->
-
-<!-- Supported attributes -->
+# Supported attributes
+```html
 method="somefunction()"                           <!-- Contains the type of request (GET, POST... etc)  which dictates how to send the data of the form -->
 enctype=""                                        <!-- Dictates how the data is to be encoded when the data is sent to the web server. -->
 autocomplete=""                                   <!-- Specifies if the autocomplete functionality is enabled or not -->
@@ -129,6 +129,7 @@ target=""                                         <!-- Tell where to display the
 <legend></legend>                                 <!-- The form legend acts as a caption for the fieldset element -->
 
 <input type="text/email/number/color/date">       <!-- Input is the input field where the user can input various types of data -->
+```
 
 <!-- Supported attributes -->
 name=""                                           <!-- Describes the name of the form -->
@@ -187,9 +188,8 @@ scr=""                                            <!-- The source of the externa
 width=""                                          <!-- Describes the width of the iframe in pixels -->
 
 
-<!-- HTML5 New Tags -->
-
-
+## HTML5 New Tags
+```html
 <header></header>                                 <!-- Defines the header block for a document or a section -->
 <footer></footer>                                 <!-- Defines the footer block for a document or a section -->
 <main></main>                                     <!-- Describes the main content of a document--> 
@@ -211,8 +211,8 @@ width=""                                          <!-- Describes the width of th
 <summary></summary>                               <!-- Contains a visible heading for details element -->
 <bdi></bdi>                                       <!-- Helps you format parts of text in a different direction than other text -->
 <time></time>                                     <!-- Identifies the time and date -->
-<wbr>                                             <!-- A line break within the content -->
-
+<wbr>                                           <!-- A line break within the content -->
+```
 
 <!-- Collective CHaracter Obejcts -->
 
