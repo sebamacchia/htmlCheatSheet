@@ -90,7 +90,7 @@ For the lady's wallet and the man's pocket! Here you have the most complete and 
 <a href="url"></a>                                <!-- Used to link to external or internal pages of a wbesite -->
 <a href="mailto:email@example.com"></a>           <!-- Used to link to an email address -->
 <a href="name"></a>                               <!-- Used to link to a document element -->
-<a href="#name"></a>                              <!-- Used to link to specific div element -->
+<a href="#name"></a>                              <!-- Used to link to specific div element (<h2 id="name">Title</h2>) -->
 <a href="tel://####-####-##"></a>                 <!-- Used to display phone numbers and make them as clickable -->
 ```
 
